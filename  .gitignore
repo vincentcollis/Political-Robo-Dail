@@ -1,4 +1,4 @@
 # ignore Twilio Keys
 .ENV
 
-.API_KEYS.js
+.api_keys.js
