@@ -2,7 +2,7 @@
 const { data } = require('./data/demo_data.js')
 
 // import Twilio API keys from your .ENV folder in you API_KEYS.js file
-const { keys } = require('./api_keys.js')
+const { keys } = require('./API_KEYS.js')
 
 let recipients = data
 
