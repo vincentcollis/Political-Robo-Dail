@@ -16,7 +16,7 @@ const csvWriter = createCsvWriter({
 
 
 // import Twilio API keys from your .ENV folder in you API_KEYS.js file
-const { keys } = require('./api_keys.js')
+const { keys } = require('./API_KEYS.js')
 
 // Twilio credentials
 const accountSid = keys.TWILIO_ACCOUNT_SID;

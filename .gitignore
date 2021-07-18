@@ -1,2 +1,4 @@
 # ignore Twilio Keys
-.api_keys.js
+.API_KEYS.js
+
+.API_KEYS
