@@ -1,7 +1,7 @@
 
 const keys = {
-    TWILIO_ACCOUNT_SID: '',
-    TWILIO_AUTH_TOKEN: ''
+    TWILIO_ACCOUNT_SID: 'insert key here',
+    TWILIO_AUTH_TOKEN: 'insert key here'
 }
 
 
